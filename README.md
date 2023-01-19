@@ -1,6 +1,11 @@
 # codestory-extension
 Repository for issue and requirement tracking for CodeStory browser extension
 
+## Reference
+
+When you have encountered any issue please take a look if could solve by any tips in following documentation.
+https://www.notion.so/codestory/Codestory-Extension-6afc77d975d94439b2196387f5ea167b
+
 ## How to report issue
 
 When you found issue of CodeStory browser extension please feel free to file issues here.
